@@ -79,6 +79,6 @@ li{
   
   @media only screen and (max-width: 320px) {
     .outline{
-        font-size: 12px;
+        font-size: 8px;
     }
   }
